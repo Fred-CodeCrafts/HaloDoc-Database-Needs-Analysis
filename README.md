@@ -1,6 +1,5 @@
-# 🩺 KAMEK - HaloDoc Database Needs Analysis
+# 🩺 HaloDoc Database Needs Analysis
 
-**KAMEK**: *Komprehensif Analisis Manajemen dan Efisiensi Kesehatan*  
 A database design and analysis project focused on supporting the backend infrastructure of **HaloDoc**, a leading healthcare web and mobile application.
 
 ---
